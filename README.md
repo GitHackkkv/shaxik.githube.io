@@ -1,2 +1,2 @@
-# shaxik.githube.io
+# shaxik.github.io
 Soft 
